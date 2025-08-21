@@ -96,7 +96,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - **프레임워크**: LangChain, RAG
 - - **대화 관리**: ConversationBufferMemory (대화 맥락 유지)  
   - **API 연동**: Tavily API (카드 외부 검색 질의 처리)  
-  - **서버 구현**: FastAPI (RESTful API 제공)  
+  - **서버 구현**: Streamlit 
 
 - **주요 기능**:  
   - 사용자 조건 기반 **카드 추천 및 혜택 비교**  

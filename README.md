@@ -159,8 +159,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
   - 
  ## 🔗 저장소
-- **welhome 코드**: [welhome]([https://github.com/ChangMin59/Card_Chatbot](https://github.com/ChangMin59/welhome)
-    
+- **welhome 코드**: [welhome](https://github.com/ChangMin59/welhome) 
     
 ---
 ## 🚀 Tech Highlights

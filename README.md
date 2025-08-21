@@ -94,7 +94,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - **질문 분류**: Prompt Engineering (Custom Template 적용)
   - **LLM 모델**: `Mistral` (Ollama 연동)  
   - **프레임워크**: LangChain, RAG
-- - **대화 관리**: ConversationBufferMemory (대화 맥락 유지)  
+  - **대화 관리**: ConversationBufferMemory (대화 맥락 유지)  
   - **API 연동**: Tavily API (카드 외부 검색 질의 처리)  
   - **서버 구현**: Streamlit 
 

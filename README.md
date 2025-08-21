@@ -147,23 +147,18 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - Intent Router 기반 질문 분기 → **주택/대출 상담 정확도 향상**  
   - Fine-tuning 적용 QnA 챗봇 → **정책 용어 이해도 개선**  
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
-
+    
+---
 ## 🚀 Tech Highlights
-- **AI/ML**:  
-  - LLM Fine-tuning (LoRA, PEFT)  
-  - RAG 아키텍처 설계 (BGE-M3 + ChromaDB)  
-  - 객체 탐지·추적 (YOLOv8, ByteTrack)  
-- **Data Engineering**:  
-  - PDF/HTML 파싱, OCR, 정규표현식 전처리  
-  - Custom Dataset 라벨링 & 증강  
-- **Backend/Infra**:  
-  - Python, FastAPI, Spring Boot, MySQL  
-  - Railway, Render, Naver Cloud, AWS  
-- **Frontend**:  
-  - React, TailwindCSS, GitHub Pages 배포  
-  - GSAP/Canvas 기반 인터랙션 구현  
+- **AI/ML Models**: Mistral, Exaone3.5, HyperCLOVAX-SEED, YOLOv8  
+- **AI Frameworks**: LangChain, LangGraph, FAISS, ChromaDB, ByteTrack  
+- **Data & Vision Tools**: OpenCV, Albumentations  
+- **Backend**: Spring Boot, JPA, MySQL, FastAPI, Render, Railway  
+- **Frontend**: HTML, CSS, Sass(SCSS), JavaScript, GSAP(ScrollTrigger), Canvas, GitHub Pages  
+- **Infra & Data Tools**: SQLite, Selenium, PyMuPDF, Tavily API, 공공데이터포털 API  
+- **Dev Tools**: VS Code, Cursor, IntelliJ IDEA Community Edition 2024.3.5
 
 ---
 
-📌 각 프로젝트는 단순 학습용이 아니라, **현실 문제 해결과 서비스화**를 목표로 진행했습니다.  
-👉 세부 과정과 성과는 첨부된 PDF 파일에서 확인하실 수 있습니다.
+📌 각 프로젝트는 이론 검증을 넘어 실제 문제 해결과 서비스 적용을 목표로 설계·구현되었습니다.
+👉 세부 과정과 정량적 성과는 첨부된 PDF 포트폴리오에서 확인 가능합니다.

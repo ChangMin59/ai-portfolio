@@ -157,6 +157,10 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - Intent Router 기반 질문 분기 → **주택/대출 상담 정확도 향상**  
   - Fine-tuning 적용 QnA 챗봇 → **정책 용어 이해도 개선**  
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
+  - 
+ ## 🔗 저장소
+- **welhome 코드**: [welhome]([https://github.com/ChangMin59/Card_Chatbot](https://github.com/ChangMin59/welhome)
+    
     
 ---
 ## 🚀 Tech Highlights

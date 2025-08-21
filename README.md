@@ -113,7 +113,10 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - **질문 자동 분류 체계** 구축 → 카드 추천·비교 / 외부 질문을 정확히 라우팅  
   - **검색 정확도 향상** → Retriever + ReRanker로 카드 정보 탐색 신뢰도 개선  
   - **응답 효율성 강화** → 불필요한 카드사 검색 최소화, 외부 검색은 필요한 경우에만 호출  
-  - **사용자 경험 개선** → 반복 질문에도 맥락 유지(ConversationBufferMemory 적용)  
+  - **사용자 경험 개선** → 반복 질문에도 맥락 유지(ConversationBufferMemory 적용)
+
+  ## 🔗 저장소
+- **Card Chatbot 코드**: [Card Chatbot](https://github.com/ChangMin59/Card_Chatbot)
 
 ---
 

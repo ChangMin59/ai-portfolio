@@ -75,7 +75,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 
 ## 🔗 데모 & 저장소
 - **Colab 데모**: [Open in Colab](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
-- **FindGo 코드(Showcase)**: [findgo](https://github.com/ChangMin59/findgo)
+- **FindGo 코드**: [findgo](https://github.com/ChangMin59/findgo)
 
 ---
 

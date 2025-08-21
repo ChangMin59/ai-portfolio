@@ -73,6 +73,10 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - **탐지율 개선**: 데이터 증강 적용 후 인식률 향상  
   - **추적 안정성 확보**: ByteTrack 적용으로 기존 대비 탐지율 **6.3% 향상**  
 
+## 🔗 데모 & 저장소
+- **Colab 데모**: [Open in Colab](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
+- **FindGo 코드(Showcase)**: [findgo](https://github.com/ChangMin59/findgo)
+
 ---
 
 ### 💳 [Card Chatbot.pdf](./portfolio/cardchatbot.pdf)  

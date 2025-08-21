@@ -39,9 +39,12 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - Render 서버를 통한 백엔드 분리 배포  
   - Railway 기반 클라우드 MySQL 연동 
 
-**배포 링크**
-- **포트폴리오 웹**: [GitHub Pages](https://changmin59.github.io/portfolio_client/)   
+---
 
+**배포 링크 & 저장소**
+- **포트폴리오 웹**: [GitHub Pages (실제 서비스)](https://changmin59.github.io/portfolio_client/)  
+- **Frontend 코드**: [portfolio_client](https://github.com/ChangMin59/portfolio_client)  
+- **Backend 코드**: [portfolio_server](https://github.com/ChangMin59/portfolio_server)  
 ---
 
 ### 🔎 [FindGo.pdf](./portfolio/FindGo.pdf)  

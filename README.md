@@ -78,7 +78,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 ---
 
 ### 💳 [Card Chatbot.pdf](./portfolio/cardchatbot.pdf)  
-→ **카드 추천·비교 챗봇 (질문 유형 분기(Prompt) → 카드/혜택은 RAG, 기타는 Tavily”로 흐름 중심 정리)**  
+→ **카드 추천·비교 챗봇 (질문 유형 분기(Prompt Engineering) → 카드/혜택은 RAG, 기타는 Tavily”로 흐름 중심 정리)**  
 
 - **문제 정의**:  
   - 카드 혜택은 복잡해 사용자가 직접 비교·선택하기 어려움  

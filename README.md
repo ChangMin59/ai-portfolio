@@ -29,9 +29,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 
 **기술 스택**
   - **Frontend**  
-    - HTML, CSS, Sass(SCSS)
-    - JavaScript (GSAP, Canvass)
-    - GSAP(ScrollTrigger),Canvas
+    - HTML, CSS, Sass(SCSS), JavaScript, GSAP(ScrollTrigger), Canvas
     - GitHub Pages 배포  
 
 - **Backend**  
@@ -71,7 +69,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 
 - **성과**:  
   - **탐지율 개선**: 데이터 증강 적용 후 인식률 향상  
-  - **추적 안정성 확보**: ByteTrack 적용으로 기존 대비 탐지율 **6.3% 향상**  
+  - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)**  
 
 ## 🔗 데모 & 저장소
 - **Colab 데모**: [Open in Colab](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
@@ -80,7 +78,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 ---
 
 ### 💳 [Card Chatbot.pdf](./portfolio/cardchatbot.pdf)  
-→ **카드 추천·비교 챗봇 (Prompt Engineering + RAG 기반)**  
+→ **카드 추천·비교 챗봇 (질문 유형 분기(Prompt) → 카드/혜택은 RAG, 기타는 Tavily”로 흐름 중심 정리)**  
 
 - **문제 정의**:  
   - 카드 혜택은 복잡해 사용자가 직접 비교·선택하기 어려움  
@@ -121,7 +119,7 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
 ---
 
 ### 🏠 [WELHOME.pdf](./portfolio/welhome.pdf)  
-→ **LH 청약 추천·대출 QnA 챗봇 (Intent Router + RAG + Fine-tuning 적용)**  
+→ **LH 청약 추천·대출 QnA 챗봇 (Intent Router + RAG + Fine-tuning)**  
 
 - **문제 정의**:  
   - 공고문 100건 이상, PDF 직접 열람 필요 → 조건 확인 비효율  
@@ -129,12 +127,12 @@ Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론�
   - 당첨 이후 자금 문제로 계약 포기 사례 다수 발생
 
 - **기술 스택**:  
-  - **데이터 수집**: 분양·임대 API (공공데이터포털, data.go.kr)
-  - **데이터 추출**: Upstage API (PDF → HTML 구조 보존)  
-  - **벡터 검색**: BGE-M3 Embedding + ChromaDB (공고별 chunk 저장/검색)
+  - **데이터 수집**: 공공데이터포털 API(data.go.kr)
+  - **데이터 추출**: Upstage(PDF→HTML) 
+  - **벡터 검색**: BGE-M3 + ChromaDB(공고별 chunk 저장/검색)
   - **질문 유형 분류**: Intent Router (주택 / 대출 라우팅)  
   - **주택·대출 챗봇 모델**: `exaone3.5:7.8b`  
-  - **QnA 챗봇 (전문용어)**: `naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B` (직접 구축한 PEFT 데이터셋 파인튜닝)  
+  - **QnA 챗봇**: `naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B` (직접 구축한 PEFT 데이터셋 파인튜닝)  
   - **데이터베이스**: SQLite (대출 / 주택 정보 저장)
   - **프레임워크**: FastAPI, LangChain, LangGraph  
   - **공고문 원문 확인**: PyMuPDF (추천된 PDF 페이지 이미지 렌더링)  

@@ -24,10 +24,15 @@ AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
 ## 📂 Portfolio Files & Projects
 
 ### 📘 [AI Developer Portfolio.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
-Spring Boot + JPA + MySQL 기반 백엔드와 HTML/CSS/JavaScript 기반 프론트엔드를 결합하여  
-**풀스택 웹 개발을 연습**한 포트폴리오입니다.  
-학습 목적의 개인 프로젝트로, 기초적인 회원가입/로그인/대시보드 기능과  
-애니메이션 기반 UX 인터랙션을 직접 구현했습니다.
+Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
+풀스택 웹 애플리케이션을 직접 구축한 프로젝트입니다.
+
+단순한 학습용 예제를 넘어서, **회원가입 → 로그인 인증 → 대시보드 렌더링**까지
+실제 서비스 흐름을 고려해 개발했고, GSAP ScrollTrigger와 Canvas 인터랙션을 적용해
+사용자가 몰입할 수 있는 **애니메이션 기반 UX**를 구현했습니다.
+
+이 경험을 통해 **백엔드–프론트엔드 통합 개발**, **REST API** 통신, 사용자 경험 중심 **UI 설계**를
+끝까지 경험했으며, 서비스 전체 흐름을 스스로 설계하고 최적화하는 능력을 키웠습니다.
 
 **주요 기능**
   - **회원가입**: 사용자 정보 저장 (DTO → Entity 변환)  

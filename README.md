@@ -22,7 +22,7 @@ AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
 ---
 
 ## 📂 Portfolio Files & Projects
-  - **포트폴리오 PDF 바로보기**  
+**포트폴리오 PDF 바로보기**  
 ### 👉📘 [AI Developer Portfolio.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
 Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
 풀스택 웹 애플리케이션을 직접 구축한 프로젝트입니다.

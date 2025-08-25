@@ -22,9 +22,6 @@ AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
 ---
 
 ## 📂 Portfolio Files & Projects
-👉<a href="./portfolio/AI_Developer_Portfolio.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📘%20AI%20Developer%20Portfolio-PDF-blue?style=for-the-badge">
-</a>
 ### 👉📘 [AI Developer Portfolio.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
 Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
 풀스택 웹 애플리케이션을 직접 구축한 프로젝트입니다.
@@ -61,7 +58,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 - **Backend 코드**: [portfolio_server](https://github.com/ChangMin59/portfolio_server)  
 ---
 
-### 🔎 [FindGo.pdf](./portfolio/FindGo.pdf)  
+### 👉🔎 [FindGo.pdf](./portfolio/FindGo.pdf)  
 → **YOLOv8 + ByteTrack 기반 실시간 물건 탐지·추적 AI**  
 
 - **문제 정의**:  
@@ -93,7 +90,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 
 ---
 
-### 💳 [Card Chatbot.pdf](./portfolio/cardchatbot.pdf)  
+### 👉💳 [Card Chatbot.pdf](./portfolio/cardchatbot.pdf)  
 → **카드 추천·비교 챗봇 (질문 유형 분기(Prompt Engineering) → 카드/혜택은 RAG, 기타는 Tavily”로 흐름 중심 정리)**  
 
 - **문제 정의**:  
@@ -134,7 +131,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 
 ---
 
-### 🏠 [WELHOME.pdf](./portfolio/welhome.pdf)  
+### 👉🏠 [WELHOME.pdf](./portfolio/welhome.pdf)  
 → **LH 청약 추천·대출 QnA 챗봇 (Intent Router + RAG + Fine-tuning + LangGraph Agent)**  
 
 - **문제 정의**:  

@@ -22,7 +22,7 @@ AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
 ---
 
 ## 📂 Portfolio Files & Projects
-<a href="./portfolio/AI_Developer_Portfolio.pdf" target="_blank">
+👉<a href="./portfolio/AI_Developer_Portfolio.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📘%20AI%20Developer%20Portfolio-PDF-blue?style=for-the-badge">
 </a>
 ### 👉📘 [AI Developer Portfolio.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
